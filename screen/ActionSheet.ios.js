@@ -5,3 +5,4 @@ export default class ActionSheet {
     ActionSheetIOS.showActionSheetWithOptions(options, completion);
   }
 }
+
